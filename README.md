@@ -9,7 +9,7 @@
 
 版本说明
 
-springboot-start ：
-dubbo-springboot：
+springboot-start ：1.5.3.RELEASE
+dubbo-springboot：0.1.2.RELEASE
 zookeeper：
-zkclient：
+zkclient：0.7
